@@ -1,0 +1,7 @@
+﻿Ani,80
+Budi,70
+Citra,90
+Dedi,75
+Eka,60
+Fajar,100
+Gina,0
